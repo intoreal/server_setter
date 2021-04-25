@@ -10,4 +10,5 @@ echo ""
 sudo apt-get upgrade -y
 echo ""
 sudo apt-get install tmux
+sudo apt-get install net-tools
 echo ""
