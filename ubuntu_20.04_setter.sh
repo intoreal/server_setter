@@ -9,4 +9,5 @@ sudo apt-get update -y
 echo ""
 sudo apt-get upgrade -y
 echo ""
-
+sudo apt-get install tmux
+echo ""
