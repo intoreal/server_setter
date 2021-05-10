@@ -12,3 +12,5 @@ echo ""
 sudo apt-get install tmux
 sudo apt-get install net-tools
 echo ""
+sudo git config --global alias.st status
+sudo git config --global alias.ad add
